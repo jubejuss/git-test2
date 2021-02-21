@@ -10,4 +10,8 @@ Veel uus mmuudatus
 
 see siin on uiusharu 4 muudatus ja proovin ta remoõuti lükata
 
-Veel üks test
+Siit kustutasin ühe rea
+
+ja siia lisan teise rea
+
+ja see on uusharu2
